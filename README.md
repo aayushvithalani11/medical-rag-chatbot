@@ -63,7 +63,7 @@ question,answer
 ]
 ```
 
-## 🔧 Technical Architecture
+## Technical Architecture
 
 ### RAG Pipeline Components
 
@@ -94,8 +94,6 @@ Try these sample questions with the chatbot:
 - "What are the early symptoms of diabetes?"
 - "Can children take paracetamol?"
 - "What foods are good for heart health?"
-
-## Design Choices
 
 ### Why These Technologies?
 
